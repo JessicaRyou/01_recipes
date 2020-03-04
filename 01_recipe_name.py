@@ -30,3 +30,5 @@ def not_blank(question):
 recipe_name = not_blank("What is the recipe name? ")
 
 print("You are making {}".format(recipe_name))
+
+print("This is now on github!")
